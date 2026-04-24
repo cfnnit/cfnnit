@@ -1,0 +1,31 @@
+{
+    "etc": [
+        "comment.json"
+    ],
+    "images": [
+        "foxy.mp4",
+        "foxy1.webp"
+    ],
+    "sound": [
+        "crit_hit2.wav",
+        "crit_hit3.wav",
+        "crit_hit4.wav",
+        "crit_hit5.wav",
+        "crit_received1.wav",
+        "crit_received2.wav",
+        "crit_received3.wav",
+        "explode1.wav",
+        "explode2.wav",
+        "explode3.wav",
+        "fnafs.mp3",
+        "hit.wav",
+        "money_less.wav",
+        "money_mid.wav",
+        "Parry_Win.wav",
+        "sword1.wav",
+        "sword2.wav",
+        "sword3.wav",
+        "sword4.wav",
+        "sword5.wav"
+    ]
+}
