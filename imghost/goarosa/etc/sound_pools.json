@@ -1,0 +1,32 @@
+{
+    "HIT": ["hit.wav", "hit1.wav", "hit2.wav", "hit4.wav", "hit5.wav"],
+    "CRIT": ["crit_hit2.wav", "crit_hit3.wav", "crit_hit4.wav", "crit_hit5.wav", "Ang.wav", "criths.wav"],
+    "FINISH_START": ["Parry_Win.wav", "arrr.wav", "fuckyou.wav", "crit_received1.wav", "crit_received2.wav", "crit_received3.wav"],
+    "HOMERUN": ["homerun.wav"],
+    "EXPLODE": ["explode1.wav", "explode2.wav", "explode3.wav"],
+    "SWORD": ["sword1.wav", "sword2.wav", "sword3.wav", "sword4.wav", "sword5.wav", "sword6.wav", "sword7.wav"],
+    "MONEY": ["money_less.wav", "money_mid.wav"],
+    "SPECIAL": {
+        "LASER_CHARGE": "gba_c.wav",
+        "LASER_FIRE": "gba_s.wav",
+        "BOW_FIRE": "Bow_shoot.ogg",
+        "PSYCHO_REVEAL": "psy.mp3",
+        "MAGIC": "magic.wav",
+        "ORBITAL_FIRE": "maspa.wav",
+        "PHANTOM": "phantom.wav",
+        "STUN": "stun.wav",
+        "VORTEX": "vortex.wav",
+        "GLITCH": "glitch.wav",
+        "SPEAR_CAST": "spear_cast.wav",
+        "SPEAR_IMPACT": "spear_impact.wav",
+        "THUNDER_CHARGE": "thunder_charge.wav",
+        "THUNDER_STRIKE": "thunder_strike.wav",
+        "SHATTER_START": "shatter_start.wav",
+        "SHATTER_BURST": "shatter_burst.wav",
+        "REAP_READY": "reap_ready.wav",
+        "REAP_SLASH": "reap_slash.wav",
+        "SUPERNOVA_READY": "supernova_ready.wav",
+        "SUPERNOVA_BURST": "supernova_burst.wav",
+        "SLASH_SPLIT": "slash_split.wav"
+    }
+}
