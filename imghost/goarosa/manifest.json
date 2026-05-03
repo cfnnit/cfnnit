@@ -50,8 +50,8 @@
         "shatter_burst.wav",
         "shatter_start.wav",
         "slash_split.wav",
-        "spear_cast.wav",
-        "spear_impact.wav",
+        "spear_cast.mp3",
+        "spear_impact.mp3",
         "stun.wav",
         "supernova_burst.wav",
         "supernova_ready.wav",
@@ -62,8 +62,8 @@
         "sword5.wav",
         "sword6.wav",
         "sword7.wav",
-        "thunder_charge.wav",
-        "thunder_strike.wav",
+        "thunder_charge.mp3",
+        "thunder_strike.mp3",
         "vortex.wav"
     ]
 }
