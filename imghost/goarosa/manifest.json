@@ -1,13 +1,22 @@
 {
     "etc": [
-        "comment.json"
+        "comment.json",
+        "sound_pools.json"
     ],
     "images": [
+        "dangan.png",
         "foxy.mp4",
-        "foxy1.webp",
-        "dangan.png"
+        "foxy1.webp"
     ],
     "sound": [
+        "Ang.wav",
+        "Arrow_hit1.ogg",
+        "Arrow_hit2.ogg",
+        "Arrow_hit3.ogg",
+        "Arrow_hit4.ogg",
+        "arrr.wav",
+        "Bow_shoot.ogg",
+        "criths.wav",
         "crit_hit2.wav",
         "crit_hit3.wav",
         "crit_hit4.wav",
@@ -19,14 +28,42 @@
         "explode2.wav",
         "explode3.wav",
         "fnafs.mp3",
+        "fuckyou.wav",
+        "gba_c.wav",
+        "gba_s.wav",
+        "glitch.wav",
         "hit.wav",
+        "hit1.wav",
+        "hit2.wav",
+        "hit4.wav",
+        "hit5.wav",
+        "homerun.wav",
+        "magic.wav",
+        "maspa.wav",
         "money_less.wav",
         "money_mid.wav",
         "Parry_Win.wav",
+        "phantom.wav",
+        "psy.mp3",
+        "reap_ready.wav",
+        "reap_slash.wav",
+        "shatter_burst.wav",
+        "shatter_start.wav",
+        "slash_split.wav",
+        "spear_cast.wav",
+        "spear_impact.wav",
+        "stun.wav",
+        "supernova_burst.wav",
+        "supernova_ready.wav",
         "sword1.wav",
         "sword2.wav",
         "sword3.wav",
         "sword4.wav",
-        "sword5.wav"
+        "sword5.wav",
+        "sword6.wav",
+        "sword7.wav",
+        "thunder_charge.wav",
+        "thunder_strike.wav",
+        "vortex.wav"
     ]
 }
