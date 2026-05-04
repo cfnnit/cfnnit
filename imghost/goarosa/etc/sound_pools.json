@@ -27,6 +27,7 @@
         "REAP_SLASH": "reap_slash.wav",
         "SUPERNOVA_READY": "supernova_ready.wav",
         "SUPERNOVA_BURST": "supernova_burst.wav",
-        "SLASH_SPLIT": "slash_split.wav"
+        "SLASH_SPLIT": "slash_split.wav",
+        "THE_WORLD": "theworld.mp3"
     }
 }
