@@ -28,6 +28,7 @@
         "SUPERNOVA_READY": "supernova_ready.wav",
         "SUPERNOVA_BURST": "supernova_burst.wav",
         "SLASH_SPLIT": "slash_split.wav",
-        "THE_WORLD": "theworld.mp3"
+        "THE_WORLD": "theworld.mp3",
+		"MSC_SOUND": "msc.mp3"
     }
 }
