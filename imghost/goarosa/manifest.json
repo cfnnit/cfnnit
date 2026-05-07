@@ -8,7 +8,8 @@
         "foxy.mp4",
         "foxy1.webp",
         "foxy_bd.webp",
-        "mycar.png"
+        "mycar.png",
+        "msckill.png"
     ],
     "sound": [
         "Ang.wav",
@@ -67,6 +68,7 @@
         "theworld.mp3",
         "thunder_charge.mp3",
         "thunder_strike.mp3",
-        "vortex.wav"
+        "vortex.wav",
+        "msc.mp3"
     ]
 }
