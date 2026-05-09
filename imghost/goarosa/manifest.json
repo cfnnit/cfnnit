@@ -8,8 +8,15 @@
         "foxy.mp4",
         "foxy1.webp",
         "foxy_bd.webp",
-        "mycar.png",
-        "msckill.png"
+        "gw (1).png",
+        "gw (2).png",
+        "gw (3).png",
+        "gw (4).png",
+        "gw (5).png",
+        "mago.png",
+        "mgs.mp4",
+        "msckill.png",
+        "mycar.png"
     ],
     "sound": [
         "Ang.wav",
@@ -18,6 +25,8 @@
         "Arrow_hit3.ogg",
         "Arrow_hit4.ogg",
         "arrr.wav",
+        "bba.ogg",
+        "bbs.ogg",
         "Bow_shoot.ogg",
         "criths.mp3",
         "crit_hit2.wav",
@@ -27,6 +36,7 @@
         "crit_received1.wav",
         "crit_received2.wav",
         "crit_received3.wav",
+        "dmc.mp3",
         "explode1.wav",
         "explode2.wav",
         "explode3.wav",
@@ -43,8 +53,10 @@
         "homerun.wav",
         "magic.wav",
         "maspa.wav",
+        "mgr.mp3",
         "money_less.wav",
         "money_mid.wav",
+        "msc.mp3",
         "Parry_Win.wav",
         "phantom.wav",
         "psy.mp3",
@@ -68,7 +80,6 @@
         "theworld.mp3",
         "thunder_charge.mp3",
         "thunder_strike.mp3",
-        "vortex.wav",
-        "msc.mp3"
+        "vortex.wav"
     ]
 }
